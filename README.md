@@ -6,7 +6,7 @@ This is a simple multiplayer Tic-Tac-Toe game implemented in Java using sockets 
 
 ### Prerequisites
 - Java Development Kit (JDK) installed.
-- Basic knowledge of Java programming.
+- Basic knowledge of Java programming and Java scokets.
 
 ### Steps
 1. **Compile the Code**:
